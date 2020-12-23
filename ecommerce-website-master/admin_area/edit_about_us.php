@@ -41,7 +41,7 @@ $about_desc = $row_about_us['about_desc'];
 
 <li class="active">
 
-<i class="fa fa-dashboard" ></i> Dashboard / Edit About Us Page
+<i class="fa fa-dashboard" ></i> Bảng điều khiển / Chỉnh sửa trang
 
 </li>
 
@@ -61,7 +61,7 @@ $about_desc = $row_about_us['about_desc'];
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> Edit About Us Page
+<i class="fa fa-money fa-fw"></i> Chỉnh sửa trang
 
 </h3>
 
@@ -73,7 +73,7 @@ $about_desc = $row_about_us['about_desc'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> About Us Heading : </label>
+<label class="col-md-3 control-label"> Tiêu đề : </label>
 
 <div class="col-md-8">
 
@@ -86,7 +86,7 @@ $about_desc = $row_about_us['about_desc'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> About Us Short Description : </label>
+<label class="col-md-3 control-label"> Mô tả : </label>
 
 <div class="col-md-8">
 
@@ -102,7 +102,7 @@ $about_desc = $row_about_us['about_desc'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> About Us Description : </label>
+<label class="col-md-3 control-label"> Mô tả : </label>
 
 <div class="col-md-8">
 

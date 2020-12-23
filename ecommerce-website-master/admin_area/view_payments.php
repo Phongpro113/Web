@@ -21,7 +21,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / View Payments
+<i class="fa fa-dashboard"></i> Trang tổng quan / Xem thanh toán
 
 </li>
 
@@ -42,7 +42,7 @@ else {
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"> </i> View Payments
+<i class="fa fa-money fa-fw"> </i> Xem các khoản thanh toán
 
 </h3><!-- panel-title Ends -->
 

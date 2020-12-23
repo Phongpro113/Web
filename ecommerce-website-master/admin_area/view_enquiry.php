@@ -21,7 +21,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard" ></i> Dashboard / View Enquiry Types
+<i class="fa fa-dashboard" ></i> Bảng điều khiển / Xem các loại yêu cầu
 
 </li>
 
@@ -41,7 +41,7 @@ else {
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> View Enquiry Types 
+<i class="fa fa-money fa-fw"></i> Xem các loại yêu cầu
 
 </h3>
 
@@ -57,13 +57,13 @@ else {
 
 <tr>
 
-<th>Enquiry Type Id</th>
+<th>Id Loại yêu cầu</th>
 
-<th>Enquiry Type Title</th>
+<th>Yêu cầu Loại Tiêu đề</th>
 
-<th>Delete Enquiry Type</th>
+<th>Xóa loại yêu cầu</th>
 
-<th>Edit Enquiry Type</th>
+<th>Chỉnh sửa loại yêu cầu</th>
 
 </tr>
 

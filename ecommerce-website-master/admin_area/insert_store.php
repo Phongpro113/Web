@@ -22,7 +22,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard" ></i> Dashboard / Insert store
+<i class="fa fa-dashboard" ></i> Trang tổng quan / Chèn cửa hàng
 
 </li>
 
@@ -42,7 +42,7 @@ else {
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> Insert store
+<i class="fa fa-money fa-fw"></i> Chèn cửa hàng
 
 </h3>
 
@@ -54,7 +54,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Title : </label>
+<label class="col-md-3 control-label"> Tiêu đề cửa hàng : </label>
 
 <div class="col-md-6">
 
@@ -68,7 +68,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Image : </label>
+<label class="col-md-3 control-label"> lưu trữ hình ảnh : </label>
 
 <div class="col-md-6">
 
@@ -81,7 +81,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Description : </label>
+<label class="col-md-3 control-label"> Mô tả cửa hàng : </label>
 
 <div class="col-md-6">
 
@@ -98,7 +98,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Button : </label>
+<label class="col-md-3 control-label"> nút cửa hàng : </label>
 
 <div class="col-md-6">
 
@@ -110,7 +110,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Url : </label>
+<label class="col-md-3 control-label"> Url cửa hàng : </label>
 
 <div class="col-md-6">
 

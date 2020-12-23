@@ -116,7 +116,7 @@ $cat_title = $row_cat['cat_title'];
 
 <li class="active">
 
-<i class="fa fa-dashboard"> </i> Dashboard / Edit Bundle
+<i class="fa fa-dashboard"> </i> Bảng điều kiển / Chỉnh sửa gói
 
 </li>
 
@@ -137,7 +137,7 @@ $cat_title = $row_cat['cat_title'];
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> Edit Bundle
+<i class="fa fa-money fa-fw"></i> Chỉnh sửa gói
 
 </h3>
 
@@ -149,7 +149,7 @@ $cat_title = $row_cat['cat_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Bundle Title </label>
+<label class="col-md-3 control-label" > Tiêu đề gói </label>
 
 <div class="col-md-6" >
 
@@ -182,7 +182,7 @@ Bundle Url Example : navy-blue-t-shirt
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Select A Manufacturer </label>
+<label class="col-md-3 control-label" > Chọn nhà sản xuất </label>
 
 <div class="col-md-6" >
 
@@ -222,7 +222,7 @@ $manufacturer_title
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Category </label>
+<label class="col-md-3 control-label" > Danh mục sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -259,7 +259,7 @@ echo "<option value='$p_cat_id' >$p_cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Category </label>
+<label class="col-md-3 control-label" > Thể loại </label>
 
 <div class="col-md-6" >
 
@@ -295,7 +295,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Bundle Image 1 </label>
+<label class="col-md-3 control-label" > Hình ảnh 1 </label>
 
 <div class="col-md-6" >
 
@@ -308,7 +308,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Bundle Image 2 </label>
+<label class="col-md-3 control-label" > Hình ảnh 2 </label>
 
 <div class="col-md-6" >
 
@@ -321,7 +321,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Bundle Image 3 </label>
+<label class="col-md-3 control-label" > Hình ảnh 3 </label>
 
 <div class="col-md-6" >
 
@@ -334,7 +334,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Bundle Price </label>
+<label class="col-md-3 control-label" > Giá gói </label>
 
 <div class="col-md-6" >
 
@@ -346,7 +346,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Bundle Sale Price </label>
+<label class="col-md-3 control-label" > Giá bán theo gói</label>
 
 <div class="col-md-6" >
 
@@ -378,19 +378,19 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <li class="active">
 
-<a data-toggle="tab" href="#description"> Bundle Description </a>
+<a data-toggle="tab" href="#description"> mô tả gói </a>
 
 </li>
 
 <li>
 
-<a data-toggle="tab" href="#features"> Bundle Features </a>
+<a data-toggle="tab" href="#features"> tính năng gói </a>
 
 </li>
 
 <li>
 
-<a data-toggle="tab" href="#video"> Sounds And Videos </a>
+<a data-toggle="tab" href="#video"> Hình ảnh, âm thanh </a>
 
 </li>
 
@@ -445,7 +445,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Bundle Label </label>
+<label class="col-md-3 control-label" > Nhãn gói </label>
 
 <div class="col-md-6" >
 

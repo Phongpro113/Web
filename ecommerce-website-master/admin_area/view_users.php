@@ -20,7 +20,7 @@ else {
 
 <li class="active" >
 
-<i class="fa fa-dashboard" ></i> Dashboard / View Users
+<i class="fa fa-dashboard" ></i> Trang tổng quan / Xem người dùng
 
 </li>
 

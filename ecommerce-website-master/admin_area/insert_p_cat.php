@@ -19,7 +19,7 @@ else {
 
 <li>
 
-<i class="fa fa-dashboard"></i> Dashboard / Insert Products Category
+<i class="fa fa-dashboard"></i> Bảng điều khiển / Chèn Danh mục Sản phẩm
 
 </li>
 
@@ -39,7 +39,7 @@ else {
 
 <h3 class="panel-title" ><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw" ></i> Insert Product Category
+<i class="fa fa-money fa-fw" ></i> Chèn danh mục sản phẩm
 
 </h3><!-- panel-title Ends -->
 
@@ -53,7 +53,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" >Product Category Title</label>
+<label class="col-md-3 control-label" >Tiêu đề danh mục sản phẩm</label>
 
 <div class="col-md-6" >
 
@@ -65,7 +65,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" >Show as Top Product Category</label>
+<label class="col-md-3 control-label" >Hiển thị dưới dạng Danh mục sản phẩm hàng đầu</label>
 
 <div class="col-md-6" >
 
@@ -83,7 +83,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Select Product Category Image</label>
+<label class="col-md-3 control-label" > Chọn hình ảnh danh mục sản phẩm</label>
 
 <div class="col-md-6" >
 

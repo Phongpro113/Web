@@ -67,7 +67,7 @@ $b_title = $row_b['product_title'];
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / Edit Relation
+<i class="fa fa-dashboard"></i> Bảng điều khiển / Chỉnh sửa mối quan hệ
 
 </li>
 
@@ -88,7 +88,7 @@ $b_title = $row_b['product_title'];
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i  class="fa fa-money fa-fw"></i> Edit Relation
+<i  class="fa fa-money fa-fw"></i> Chỉnh sửa quan hệ
 
 </h3><!-- panel-title Ends -->
 
@@ -100,7 +100,7 @@ $b_title = $row_b['product_title'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Relation Title  </label>
+<label class="col-md-3 control-label"> Chức danh quan hệ  </label>
 
 <div class="col-md-6">
 
@@ -112,7 +112,7 @@ $b_title = $row_b['product_title'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Product  </label>
+<label class="col-md-3 control-label"> Chọn sản phẩm  </label>
 
 <div class="col-md-6">
 
@@ -146,7 +146,7 @@ echo "<option value='$p_id'> $p_title </option>";
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Bundle  </label>
+<label class="col-md-3 control-label"> Chọn gói  </label>
 
 <div class="col-md-6">
 

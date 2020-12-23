@@ -21,7 +21,7 @@ else {
 
 <li class="active" >
 
-<i class="fa fa-dashboard"></i> Dashboard / View Products
+<i class="fa fa-dashboard"></i> Trang tổng quan / Xem sản phẩm
 
 </li>
 

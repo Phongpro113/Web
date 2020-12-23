@@ -4,67 +4,67 @@
 		<div class="container clearfix">
 
 			<div class="footer-nav__col footer-nav__col--info">
-				<div class="footer-nav__heading">Information</div>
+				<div class="footer-nav__heading">Thông tin</div>
 				<ul class="footer-nav__list">
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">The brand</a>
+						<a href="#" class="footer-nav__link">Thương hiệu</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Local stores</a>
+						<a href="#" class="footer-nav__link">Cửa hàng địa phương</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Customer service</a>
+						<a href="#" class="footer-nav__link">Dịch vụ khách hàng</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Privacy &amp; cookies</a>
+						<a href="#" class="footer-nav__link">Riêng tư &amp; cookies</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Site map</a>
+						<a href="#" class="footer-nav__link">Sơ đồ trang web</a>
 					</li>
 				</ul>
 			</div>
 
 			<div class="footer-nav__col footer-nav__col--whybuy">
-				<div class="footer-nav__heading">Why buy from us</div>
+				<div class="footer-nav__heading">Tại sao mua từ chúng tôi</div>
 				<ul class="footer-nav__list">
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Shipping &amp; returns</a>
+						<a href="#" class="footer-nav__link">Đang chuyển hàng &amp; Trả lại</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Secure shipping</a>
+						<a href="#" class="footer-nav__link">Vận chuyển an toàn</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Testimonials</a>
+						<a href="#" class="footer-nav__link">Lời chứng thực</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Award winning</a>
+						<a href="#" class="footer-nav__link">Đoạn giải</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Ethical trading</a>
+						<a href="#" class="footer-nav__link">Giao dịch uy tín</a>
 					</li>
 				</ul>
 			</div>
 
 			<div class="footer-nav__col footer-nav__col--account">
-				<div class="footer-nav__heading">Your account</div>
+				<div class="footer-nav__heading">Tài khoản của bạn</div>
 				<ul class="footer-nav__list">
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Sign in</a>
+						<a href="#" class="footer-nav__link">Đăng nhập</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Register</a>
+						<a href="#" class="footer-nav__link">Đăng ký</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">View cart</a>
+						<a href="#" class="footer-nav__link">Xem giỏ hàng</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">View your lookbook</a>
+						<a href="#" class="footer-nav__link">Xem lookbook</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Track an order</a>
+						<a href="#" class="footer-nav__link">Theo dõi đơn hàng</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Update information</a>
+						<a href="#" class="footer-nav__link">Cập nhật thông tin</a>
 					</li>
 				</ul>
 			</div>
@@ -73,39 +73,39 @@
 				<div class="footer-nav__heading">Lookbook</div>
 				<ul class="footer-nav__list">
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Latest posts</a>
+						<a href="#" class="footer-nav__link">Bài viết mới nhất</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Men&apos;s lookbook</a>
+						<a href="#" class="footer-nav__link">Đàn ông&apos;s lookbook</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Women&apos;s lookbook</a>
+						<a href="#" class="footer-nav__link">Phụ nữ&apos;s lookbook</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Lookbooks RSS feed</a>
+						<a href="#" class="footer-nav__link">Lookbooks RSS phản hồi</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">View your lookbook</a>
+						<a href="#" class="footer-nav__link">Xem lookbook của bạn</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Delete your lookbook</a>
+						<a href="#" class="footer-nav__link">Xóa lookbook của bạn</a>
 					</li>
 				</ul>
 			</div>
 
 			<div class="footer-nav__col footer-nav__col--contacts">
-				<div class="footer-nav__heading">Contact details</div>
+				<div class="footer-nav__heading">Chi tiết liên hệ</div>
 				<address class="address">
-				Head Office: Avenue Fashion.<br>
-				180-182 Regent Street, London.
+				Trụ sở chính: UIT.<br>
+				Song Hành, khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh.
 			</address>
 				<div class="phone">
-					Telephone:
-					<a class="phone__number" href="tel:0123456789">0123-456-789</a>
+					Điện thoại:
+					<a class="phone__number" href="tel:0123456789">0902417063</a>
 				</div>
 				<div class="email">
 					Email:
-					<a href="mailto:support@yourwebsite.com" class="email__addr">support@yourwebsite.com</a>
+					<a href="mailto:support@yourwebsite.com" class="email__addr">18521311@gm.uit.edu.vn</a>
 				</div>
 			</div>
 

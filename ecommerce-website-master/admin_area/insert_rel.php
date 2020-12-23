@@ -20,7 +20,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / Insert Relation
+<i class="fa fa-dashboard"></i> Bảng điều khiển / Chèn quan hệ
 
 </li>
 
@@ -41,7 +41,7 @@ else {
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i  class="fa fa-money fa-fw"></i> Insert Relation
+<i  class="fa fa-money fa-fw"></i> Chèn quan hệ
 
 </h3><!-- panel-title Ends -->
 
@@ -53,7 +53,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Relation Title  </label>
+<label class="col-md-3 control-label"> Chức danh quan hệ  </label>
 
 <div class="col-md-6">
 
@@ -65,13 +65,13 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Product  </label>
+<label class="col-md-3 control-label"> Chọn sản phẩm  </label>
 
 <div class="col-md-6">
 
 <select name="product_id" class="form-control">
 
-<option> Select Product </option>
+<option> Chọn sản phẩm </option>
 
 <?php
 
@@ -99,13 +99,13 @@ echo "<option value='$p_id'> $p_title </option>";
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Bundle  </label>
+<label class="col-md-3 control-label"> Chọn gói  </label>
 
 <div class="col-md-6">
 
 <select name="bundle_id" class="form-control">
 
-<option> Select Bundle </option>
+<option> Chọn gói </option>
 
 <?php
 

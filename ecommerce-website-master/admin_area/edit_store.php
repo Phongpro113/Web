@@ -53,7 +53,7 @@ $new_s_image = $row_store['store_image'];
 
 <li class="active">
 
-<i class="fa fa-dashboard" ></i> Dashboard / Edit store
+<i class="fa fa-dashboard" ></i> Trang tổng quan / Chỉnh sửa cửa hàng
 
 </li>
 
@@ -73,7 +73,7 @@ $new_s_image = $row_store['store_image'];
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> Edit store
+<i class="fa fa-money fa-fw"></i> Chỉnh sửa cửa hàng
 
 </h3>
 
@@ -85,7 +85,7 @@ $new_s_image = $row_store['store_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Title : </label>
+<label class="col-md-3 control-label"> Tiêu đề cửa hàng : </label>
 
 <div class="col-md-6">
 
@@ -99,7 +99,7 @@ $new_s_image = $row_store['store_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Image : </label>
+<label class="col-md-3 control-label"> lưu trữ hình ảnh : </label>
 
 <div class="col-md-6">
 
@@ -116,7 +116,7 @@ $new_s_image = $row_store['store_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Description : </label>
+<label class="col-md-3 control-label"> Mô tả cửa hàng : </label>
 
 <div class="col-md-6">
 
@@ -133,7 +133,7 @@ $new_s_image = $row_store['store_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Button : </label>
+<label class="col-md-3 control-label"> nút cửa hàng : </label>
 
 <div class="col-md-6">
 
@@ -145,7 +145,7 @@ $new_s_image = $row_store['store_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> store Url : </label>
+<label class="col-md-3 control-label"> Url cửa hàng: </label>
 
 <div class="col-md-6">
 

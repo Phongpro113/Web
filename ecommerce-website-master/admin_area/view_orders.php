@@ -20,7 +20,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / View Orders
+<i class="fa fa-dashboard"></i> Trang tổng quan / Xem đơn đặt hàng
 
 </li>
 
@@ -41,7 +41,7 @@ else {
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"></i> View Orders
+<i class="fa fa-money fa-fw"></i> Xem đơn đặt hàng
 
 </h3><!-- panel-title Ends -->
 

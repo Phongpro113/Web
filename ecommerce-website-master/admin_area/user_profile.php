@@ -61,7 +61,7 @@ $admin_about = $row_admin['admin_about'];
 
 <li class="active" >
 
-<i class="fa fa-dashboard" ></i> Dashboard / Edit Profile
+<i class="fa fa-dashboard" ></i> Trang tổng quan / Chỉnh sửa hồ sơ
 
 </li>
 
@@ -83,7 +83,7 @@ $admin_about = $row_admin['admin_about'];
 
 <h3 class="panel-title" >
 
-<i class="fa fa-money fa-fw" ></i> Edit Profile
+<i class="fa fa-money fa-fw" ></i> Chỉnh sửa hồ sơ
 
 </h3>
 

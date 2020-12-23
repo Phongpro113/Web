@@ -33,7 +33,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"> </i> Dashboard / Insert Products
+<i class="fa fa-dashboard"> </i> Trang tổng quan / Chèn sản phẩm
 
 </li>
 

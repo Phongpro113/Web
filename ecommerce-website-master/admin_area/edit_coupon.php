@@ -82,7 +82,7 @@ $product_title = $row_products['product_title'];
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"> </i> Edit Coupon
+<i class="fa fa-money fa-fw"> </i> Chỉnh sửa phiếu giảm giá
 
 </h3><!-- panel-title Ends -->
 
@@ -94,7 +94,7 @@ $product_title = $row_products['product_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Title </label>
+<label class="col-md-3 control-label"> Tiêu đề phiếu giảm giá </label>
 
 <div class="col-md-6">
 
@@ -106,7 +106,7 @@ $product_title = $row_products['product_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Price </label>
+<label class="col-md-3 control-label"> Giá phiếu giảm giá </label>
 
 <div class="col-md-6">
 
@@ -118,7 +118,7 @@ $product_title = $row_products['product_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Code </label>
+<label class="col-md-3 control-label"> Mã giảm giả </label>
 
 <div class="col-md-6">
 
@@ -130,7 +130,7 @@ $product_title = $row_products['product_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Limit </label>
+<label class="col-md-3 control-label"> Giới hạn phiếu giảm giá</label>
 
 <div class="col-md-6">
 
@@ -142,7 +142,7 @@ $product_title = $row_products['product_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Coupon For Product or Bundle </label>
+<label class="col-md-3 control-label"> Chọn phiếu giảm giá hoặc gói</label>
 
 <div class="col-md-6">
 
@@ -171,7 +171,7 @@ echo "<option value='$p_id'> $p_title </option>";
 
 <option></option>
 
-<option>Select Coupon for bundle</option>
+<option>Chọn phiếu giảm giá hoặc gói</option>
 
 <option></option>
 

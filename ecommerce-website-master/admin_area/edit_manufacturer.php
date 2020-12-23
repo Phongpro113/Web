@@ -48,7 +48,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / Edit Manufacturer
+<i class="fa fa-dashboard"></i> Trang tổng quan / Nhà sản xuất chỉnh sửa
 
 </li>
 
@@ -69,7 +69,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"> </i> Edit Manufacturer
+<i class="fa fa-money fa-fw"> </i> Chỉnh sửa nhà sản xuất
 
 </h3><!-- panel-title Ends -->
 
@@ -81,7 +81,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Manufacturer Name </label>
+<label class="col-md-3 control-label"> tên nhà sản xuất </label>
 
 <div class="col-md-6">
 
@@ -93,7 +93,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Show as Top Manufacturers </label>
+<label class="col-md-3 control-label"> Thể hiện là nhà sản xuất hàng đầu </label>
 
 <div class="col-md-6">
 
@@ -113,7 +113,7 @@ $new_m_image = $row_manufacturer['manufacturer_image'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Select Manufacturer Image </label>
+<label class="col-md-3 control-label"> Chọn hình ảnh nhà sản xuất</label>
 
 <div class="col-md-6">
 

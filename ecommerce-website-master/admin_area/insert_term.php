@@ -22,7 +22,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / Insert Terms
+<i class="fa fa-dashboard"></i> Trang tổng quan / Chèn điều khoản
 
 </li>
 
@@ -46,7 +46,7 @@ else {
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"></i> Insert Terms
+<i class="fa fa-money fa-fw"></i> Chèn điều khoản
 
 </h3><!-- panel-title Ends -->
 
@@ -58,7 +58,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Term Title </label>
+<label class="col-md-3 control-label"> Chèn tiêu đề </label>
 
 <div class="col-md-6"><!-- col-md-6 Starts -->
 
@@ -70,7 +70,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Term Description </label>
+<label class="col-md-3 control-label"> Mô tả điều khoản </label>
 
 <div class="col-md-6"><!-- col-md-6 Starts -->
 

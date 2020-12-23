@@ -20,7 +20,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard" ></i> Dashboard / Insert Enquiry Type
+<i class="fa fa-dashboard" ></i> Bảng điều khiển / Chèn Loại yêu cầu
 
 </li>
 
@@ -40,7 +40,7 @@ else {
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> Insert Enquiry Type 
+<i class="fa fa-money fa-fw"></i> Chèn loại yêu cầu
 
 </h3>
 
@@ -52,7 +52,7 @@ else {
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Enquiry Title </label>
+<label class="col-md-3 control-label"> Tiêu đề yêu cầu </label>
 
 <div class="col-md-6">
 

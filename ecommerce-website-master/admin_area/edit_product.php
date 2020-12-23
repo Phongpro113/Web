@@ -116,7 +116,7 @@ $cat_title = $row_cat['cat_title'];
 
 <li class="active">
 
-<i class="fa fa-dashboard"> </i> Dashboard / Edit Products
+<i class="fa fa-dashboard"> </i>Trang tổng quan / Chỉnh sửa Sản phẩm
 
 </li>
 
@@ -137,7 +137,7 @@ $cat_title = $row_cat['cat_title'];
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> Edit Products
+<i class="fa fa-money fa-fw"></i> Chỉnh sửa sản phẩm
 
 </h3>
 
@@ -149,7 +149,7 @@ $cat_title = $row_cat['cat_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Title </label>
+<label class="col-md-3 control-label" > Tiêu đề sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -162,7 +162,7 @@ $cat_title = $row_cat['cat_title'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Url </label>
+<label class="col-md-3 control-label" > Url sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -172,7 +172,7 @@ $cat_title = $row_cat['cat_title'];
 
 <p style="font-size:15px; font-weight:bold;">
 
-Product Url Example : navy-blue-t-shirt
+Ví dụ về url sản phẩm: áo thun xanh navy
 
 </p>
 
@@ -182,7 +182,7 @@ Product Url Example : navy-blue-t-shirt
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Select A Manufacturer </label>
+<label class="col-md-3 control-label" > Chọn một nhà sản xuất </label>
 
 <div class="col-md-6" >
 
@@ -222,7 +222,7 @@ $manufacturer_title
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Category </label>
+<label class="col-md-3 control-label" > danh mục sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -259,7 +259,7 @@ echo "<option value='$p_cat_id' >$p_cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Category </label>
+<label class="col-md-3 control-label" > thể loại </label>
 
 <div class="col-md-6" >
 
@@ -295,7 +295,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Image 1 </label>
+<label class="col-md-3 control-label" > Hình ảnh sản phẩm 1 </label>
 
 <div class="col-md-6" >
 
@@ -308,7 +308,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Image 2 </label>
+<label class="col-md-3 control-label" > Hình ảnh sản phẩm 2 </label>
 
 <div class="col-md-6" >
 
@@ -321,7 +321,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Image 3 </label>
+<label class="col-md-3 control-label" >Hình ảnh sản phẩm 3 </label>
 
 <div class="col-md-6" >
 
@@ -334,7 +334,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Price </label>
+<label class="col-md-3 control-label" > Giá sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -346,7 +346,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Sale Price </label>
+<label class="col-md-3 control-label" > Giá bán sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -358,7 +358,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Keywords </label>
+<label class="col-md-3 control-label" > Từ khóa Sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -370,7 +370,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Tabs </label>
+<label class="col-md-3 control-label" > Các tab sản phẩm </label>
 
 <div class="col-md-6" >
 
@@ -378,19 +378,19 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <li class="active">
 
-<a data-toggle="tab" href="#description"> Product Description </a>
+<a data-toggle="tab" href="#description"> Mô tả Sản phẩm</a>
 
 </li>
 
 <li>
 
-<a data-toggle="tab" href="#features"> Product Features </a>
+<a data-toggle="tab" href="#features"> Tính năng sản phẩm </a>
 
 </li>
 
 <li>
 
-<a data-toggle="tab" href="#video"> Sounds And Videos </a>
+<a data-toggle="tab" href="#video"> Âm thanh và Video </a>
 
 </li>
 
@@ -445,7 +445,7 @@ echo "<option value='$cat_id'>$cat_title</option>";
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Product Label </label>
+<label class="col-md-3 control-label" > Nhãn sản phẩm </label>
 
 <div class="col-md-6" >
 

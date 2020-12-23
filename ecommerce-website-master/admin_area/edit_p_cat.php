@@ -46,7 +46,7 @@ $new_p_cat_image = $row_edit['p_cat_image'];
 
 <li>
 
-<i class="fa fa-dashboard"></i> Dashboard / Edit Product Category
+<i class="fa fa-dashboard"></i> Trang tổng quan / Chỉnh sửa danh mục sản phẩm
 
 </li>
 
@@ -66,7 +66,7 @@ $new_p_cat_image = $row_edit['p_cat_image'];
 
 <h3 class="panel-title" ><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw" ></i> Edit Product Category
+<i class="fa fa-money fa-fw" ></i> Chỉnh sửa danh mục sản phẩm
 
 </h3><!-- panel-title Ends -->
 
@@ -80,7 +80,7 @@ $new_p_cat_image = $row_edit['p_cat_image'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" >Product Category Title</label>
+<label class="col-md-3 control-label" >Tiêu đề danh mục sản phẩm</label>
 
 <div class="col-md-6" >
 
@@ -92,7 +92,7 @@ $new_p_cat_image = $row_edit['p_cat_image'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" >Show as Top Product Category</label>
+<label class="col-md-3 control-label" >Hiển thị dưới dạng Danh mục sản phẩm hàng đầu</label>
 
 <div class="col-md-6" >
 
@@ -112,7 +112,7 @@ $new_p_cat_image = $row_edit['p_cat_image'];
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label" > Select Product Category Image</label>
+<label class="col-md-3 control-label" > Chọn hình ảnh danh mục sản phẩm</label>
 
 <div class="col-md-6" >
 

@@ -41,7 +41,7 @@ $enquiry_title = $row_enquiry_type['enquiry_title'];
 
 <li class="active">
 
-<i class="fa fa-dashboard" ></i> Dashboard / Edit Enquiry Type
+<i class="fa fa-dashboard" ></i> Bảng điều khiển / Chỉnh sửa Loại yêu cầu
 
 </li>
 
@@ -61,7 +61,7 @@ $enquiry_title = $row_enquiry_type['enquiry_title'];
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> Edit Enquiry Type 
+<i class="fa fa-money fa-fw"></i> Chỉnh sửa loại yêu cầu
 
 </h3>
 
@@ -73,7 +73,7 @@ $enquiry_title = $row_enquiry_type['enquiry_title'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Enquiry Title </label>
+<label class="col-md-3 control-label"> Tiêu đề yêu cầu </label>
 
 <div class="col-md-6">
 

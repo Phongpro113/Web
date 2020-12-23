@@ -20,7 +20,7 @@ else {
 
 <li class="active" >
 
-<i class="fa fa-dashboard"></i> Dashboard / View Terms
+<i class="fa fa-dashboard"></i> Trang tổng quan / Xem điều khoản
 
 </li>
 
@@ -40,7 +40,7 @@ else {
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> View Terms
+<i class="fa fa-money fa-fw"></i> Xem điều khoản
 
 </h3>
 

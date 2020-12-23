@@ -20,7 +20,7 @@ else {
 
 <li class="active" >
 
-<i class="fa fa-dashboard" ></i> Dashboard / View Categories
+<i class="fa fa-dashboard" ></i> Trang tổng quan / Xem danh mục
 
 </li>
 
@@ -41,7 +41,7 @@ else {
 
 <h3 class="panel-title" >
 
-<i class="fa fa-money fa-fw"></i> View Categories
+<i class="fa fa-money fa-fw"></i> Xem danh mục
 
 </h3>
 

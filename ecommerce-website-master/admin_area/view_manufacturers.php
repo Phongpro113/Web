@@ -20,7 +20,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"></i> Dashboard / View Manufacturers
+<i class="fa fa-dashboard"></i> Trang tổng quan / Xem nhà sản xuất
 
 </li>
 
@@ -40,7 +40,7 @@ else {
 
 <h3 class="panel-title">
 
-<i class="fa fa-money fa-fw"></i> View Manufacturers
+<i class="fa fa-money fa-fw"></i> Xem nhà sản xuất
 
 </h3>
 

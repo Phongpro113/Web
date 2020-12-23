@@ -71,7 +71,7 @@ $term_desc = $row_term['term_desc'];
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"></i> Edit Terms
+<i class="fa fa-money fa-fw"></i> Chỉnh sửa điều khoản
 
 </h3><!-- panel-title Ends -->
 
@@ -83,7 +83,7 @@ $term_desc = $row_term['term_desc'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Term Title </label>
+<label class="col-md-3 control-label"> Tiêu đề điều khoản </label>
 
 <div class="col-md-6"><!-- col-md-6 Starts -->
 
@@ -95,7 +95,7 @@ $term_desc = $row_term['term_desc'];
 
 <div class="form-group"><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Term Description </label>
+<label class="col-md-3 control-label"> Mô tả điều khoản </label>
 
 <div class="col-md-6"><!-- col-md-6 Starts -->
 

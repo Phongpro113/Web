@@ -1,5 +1,9 @@
 <?php
 
-$con = mysqli_connect("localhost","root","root","ecom_store");
+$SERVER = "localhost";
+$USERNAME = "root";
+$PASSWORD = "";
+$DBNAME = "web";
+$con = mysqli_connect($SERVER, $USERNAME, $PASSWORD,$DBNAME);
 
 ?>

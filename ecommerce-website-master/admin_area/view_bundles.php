@@ -21,7 +21,7 @@ else {
 
 <li class="active" >
 
-<i class="fa fa-dashboard"></i> Dashboard / View Bundles
+<i class="fa fa-dashboard"></i> Bảng điều khiển / Xem gói
 
 </li>
 
@@ -41,7 +41,7 @@ else {
 
 <h3 class="panel-title" ><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw" ></i> View Bundles
+<i class="fa fa-money fa-fw" ></i> Xem các gói
 
 </h3><!-- panel-title Ends -->
 

@@ -21,7 +21,7 @@ else {
 
 <li class="active">
 
-<i class="fa fa-dashboard"> </i> Dashboard / Insert Coupon
+<i class="fa fa-dashboard"> </i> Bảng điều khiển / Chèn phiếu giảm giá
 
 </li>
 
@@ -41,7 +41,7 @@ else {
 
 <h3 class="panel-title"><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw"> </i> Insert Coupon
+<i class="fa fa-money fa-fw"> </i> Chèn phiếu giảm giá
 
 </h3><!-- panel-title Ends -->
 
@@ -53,7 +53,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Title </label>
+<label class="col-md-3 control-label"> Tiêu đề phiếu thưởng </label>
 
 <div class="col-md-6">
 
@@ -65,7 +65,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Price </label>
+<label class="col-md-3 control-label"> Giá phiếu giảm giá </label>
 
 <div class="col-md-6">
 
@@ -77,7 +77,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Code </label>
+<label class="col-md-3 control-label"> mã giảm giá </label>
 
 <div class="col-md-6">
 
@@ -89,7 +89,7 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label"> Coupon Limit </label>
+<label class="col-md-3 control-label"> Giới hạn phiếu thưởng </label>
 
 <div class="col-md-6">
 
@@ -101,13 +101,13 @@ else {
 
 <div class="form-group" ><!-- form-group Starts -->
 
-<label class="col-md-3 control-label">Select coupon for Product Or bundle</label>
+<label class="col-md-3 control-label">Chọn phiếu giảm giá cho Sản phẩm hoặc gói</label>
 
 <div class="col-md-6">
 
 <select name="product_id" class="form-control">
 
-<option> Select Coupon Product  </option>
+<option> Chọn sản phẩm phiếu giảm giá  </option>
 
 <?php
 
@@ -129,7 +129,7 @@ echo "<option value='$p_id'> $p_title </option>";
 
 <option></option>
 
-<option>Select Coupon For Bundle</option>
+<option>Chọn phiếu giảm giá cho gói</option>
 
 <option></option>
 

@@ -56,7 +56,7 @@ else {
 
 <a href="index.php?user_profile=<?php echo $admin_id; ?>" >
 
-<i class="fa fa-fw fa-user" ></i> Profile
+<i class="fa fa-fw fa-user" ></i> Thông tin
 
 
 </a>
@@ -67,7 +67,7 @@ else {
 
 <a href="index.php?view_products" >
 
-<i class="fa fa-fw fa-envelope" ></i> Products 
+<i class="fa fa-fw fa-envelope" ></i> Sản phẩm 
 
 <span class="badge" ><?php echo $count_products; ?></span>
 
@@ -80,7 +80,7 @@ else {
 
 <a href="index.php?view_customers" >
 
-<i class="fa fa-fw fa-gear" ></i> Customers
+<i class="fa fa-fw fa-gear" ></i> Khách hàng
 
 <span class="badge" ><?php echo $count_customers; ?></span>
 
@@ -142,7 +142,7 @@ else {
 
 <a href="#" data-toggle="collapse" data-target="#products">
 
-<i class="fa fa-fw fa-table"></i> Products
+<i class="fa fa-fw fa-table"></i> Sản phẩm
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -152,11 +152,11 @@ else {
 <ul id="products" class="collapse">
 
 <li>
-<a href="index.php?insert_product"> Insert Products </a>
+<a href="index.php?insert_product"> Thêm sản phẩm </a>
 </li>
 
 <li>
-<a href="index.php?view_products"> View Products </a>
+<a href="index.php?view_products"> Xem sản phẩm </a>
 </li>
 
 
@@ -177,7 +177,7 @@ else {
 <ul id="bundles" class="collapse">
 
 <li>
-<a href="index.php?insert_bundle"> Insert Bundle </a>
+<a href="index.php?insert_bundle"> Chèn Bundle </a>
 </li>
 
 <li>
@@ -251,7 +251,7 @@ else {
 
 <a href="#" data-toggle="collapse" data-target="#p_cat">
 
-<i class="fa fa-fw fa-pencil"></i> Products Categories
+<i class="fa fa-fw fa-pencil"></i> Danh mục sản phẩm
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -261,11 +261,11 @@ else {
 <ul id="p_cat" class="collapse">
 
 <li>
-<a href="index.php?insert_p_cat"> Insert Product Category </a>
+<a href="index.php?insert_p_cat"> Chèn danh mục sản phẩm </a>
 </li>
 
 <li>
-<a href="index.php?view_p_cats"> View Products Categories </a>
+<a href="index.php?view_p_cats"> Xem danh mục sản phẩm </a>
 </li>
 
 
@@ -278,7 +278,7 @@ else {
 
 <a href="#" data-toggle="collapse" data-target="#cat">
 
-<i class="fa fa-fw fa-arrows-v"></i> Categories
+<i class="fa fa-fw fa-arrows-v"></i> danh mục
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -287,11 +287,11 @@ else {
 <ul id="cat" class="collapse">
 
 <li>
-<a href="index.php?insert_cat"> Insert Category </a>
+<a href="index.php?insert_cat"> chèn danh mục </a>
 </li>
 
 <li>
-<a href="index.php?view_cats"> View Categories </a>
+<a href="index.php?view_cats"> xem danh mục </a>
 </li>
 
 
@@ -330,7 +330,7 @@ else {
 
 <a href="#" data-toggle="collapse" data-target="#contact_us"><!-- anchor Starts -->
 
-<i class="fa fa-fw fa-pencil"> </i> Contact Us Section
+<i class="fa fa-fw fa-pencil"> </i> Liên hệ mục
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -340,19 +340,19 @@ else {
 
 <li>
 
-<a href="index.php?edit_contact_us"> Edit Contact Us </a>
+<a href="index.php?edit_contact_us"> Chỉnh sửa liên hệ </a>
 
 </li>
 
 <li>
 
-<a href="index.php?insert_enquiry"> Insert Enquiry Type </a>
+<a href="index.php?insert_enquiry"> Chèn loại yêu cầu </a>
 
 </li>
 
 <li>
 
-<a href="index.php?view_enquiry"> View Enquiry Types </a>
+<a href="index.php?view_enquiry"> Xem loại yêu cầu </a>
 
 </li>
 
@@ -364,7 +364,7 @@ else {
 
 <a href="index.php?edit_about_us">
 
-<i class="fa fa-fw fa-edit"></i> Edit About Us Page
+<i class="fa fa-fw fa-edit"></i> Chỉnh sửa trang
 
 </a>
 
@@ -375,7 +375,7 @@ else {
 
 <a href="#" data-toggle="collapse" data-target="#coupons"><!-- anchor Starts -->
 
-<i class="fa fa-fw fa-arrows-v"></i> Coupons
+<i class="fa fa-fw fa-arrows-v"></i> Phiếu giảm giá
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -384,11 +384,11 @@ else {
 <ul id="coupons" class="collapse"><!-- ul collapse Starts -->
 
 <li>
-<a href="index.php?insert_coupon"> Insert Coupon </a>
+<a href="index.php?insert_coupon"> Chèn phiếu giảm giá </a>
 </li>
 
 <li>
-<a href="index.php?view_coupons"> View Coupons </a>
+<a href="index.php?view_coupons"> Xem phiếu giảm giá </a>
 </li>
 
 </ul><!-- ul collapse Ends -->
@@ -401,7 +401,7 @@ else {
 
 <a href="#" data-toggle="collapse" data-target="#terms" ><!-- anchor Starts -->
 
-<i class="fa fa-fw fa-table"></i> Terms
+<i class="fa fa-fw fa-table"></i> Điều khoản
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -410,11 +410,11 @@ else {
 <ul id="terms" class="collapse"><!-- ul collapse Starts -->
 
 <li>
-<a href="index.php?insert_term"> Insert Terms </a> 
+<a href="index.php?insert_term"> Chèn điều khoản </a> 
 </li>
 
 <li>
-<a href="index.php?view_terms"> View Terms </a> 
+<a href="index.php?view_terms"> Xem điều khoản </a> 
 </li>
 
 </ul><!-- ul collapse Ends -->
@@ -428,7 +428,7 @@ else {
 
 <a href="index.php?view_customers">
 
-<i class="fa fa-fw fa-edit"></i> View Customers
+<i class="fa fa-fw fa-edit"></i> Xem khách hàng
 
 </a>
 
@@ -438,7 +438,7 @@ else {
 
 <a href="index.php?view_orders">
 
-<i class="fa fa-fw fa-list"></i> View Orders
+<i class="fa fa-fw fa-list"></i> Xem đơn hàng
 
 </a>
 
@@ -448,7 +448,7 @@ else {
 
 <a href="index.php?view_payments">
 
-<i class="fa fa-fw fa-pencil"></i> View Payments
+<i class="fa fa-fw fa-pencil"></i> xem khoản thanh toán
 
 </a>
 
@@ -458,7 +458,7 @@ else {
 
 <a href="#" data-toggle="collapse" data-target="#users">
 
-<i class="fa fa-fw fa-gear"></i> Users
+<i class="fa fa-fw fa-gear"></i> Người dùng
 
 <i class="fa fa-fw fa-caret-down"></i>
 
@@ -468,15 +468,15 @@ else {
 <ul id="users" class="collapse">
 
 <li>
-<a href="index.php?insert_user"> Insert User </a>
+<a href="index.php?insert_user"> Chèn người dùng </a>
 </li>
 
 <li>
-<a href="index.php?view_users"> View Users </a>
+<a href="index.php?view_users"> Xem người dùng </a>
 </li>
 
 <li>
-<a href="index.php?user_profile=<?php echo $admin_id; ?>"> Edit Profile </a>
+<a href="index.php?user_profile=<?php echo $admin_id; ?>"> Chỉnh sửa thông tin </a>
 </li>
 
 </ul>

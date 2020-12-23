@@ -56,7 +56,7 @@ else {
 
 <div class="huge"> <?php echo $count_products; ?> </div>
 
-<div>Products</div>
+<div>Sản phẩm</div>
 
 </div><!-- col-xs-9 text-right Ends -->
 
@@ -68,7 +68,7 @@ else {
 
 <div class="panel-footer"><!-- panel-footer Starts -->
 
-<span class="pull-left"> View Details </span>
+<span class="pull-left"> Xem chi tiết </span>
 
 <span class="pull-right"> <i class="fa fa-arrow-circle-right"></i> </span>
 
@@ -113,7 +113,7 @@ else {
 
 <div class="panel-footer"><!-- panel-footer Starts -->
 
-<span class="pull-left"> View Details </span>
+<span class="pull-left"> Xem chi tiết </span>
 
 <span class="pull-right"> <i class="fa fa-arrow-circle-right"></i> </span>
 
@@ -146,7 +146,7 @@ else {
 
 <div class="huge"> <?php echo $count_p_categories; ?> </div>
 
-<div>Products Categories</div>
+<div>Danh mục sản phẩm</div>
 
 </div><!-- col-xs-9 text-right Ends -->
 
@@ -158,7 +158,7 @@ else {
 
 <div class="panel-footer"><!-- panel-footer Starts -->
 
-<span class="pull-left"> View Details </span>
+<span class="pull-left"> Xem chi tiết </span>
 
 <span class="pull-right"> <i class="fa fa-arrow-circle-right"></i> </span>
 
@@ -191,7 +191,7 @@ else {
 
 <div class="huge"> <?php echo $count_pending_orders; ?> </div>
 
-<div>Orders</div>
+<div>Đơn đặt hàng</div>
 
 </div><!-- col-xs-9 text-right Ends -->
 
@@ -203,7 +203,7 @@ else {
 
 <div class="panel-footer"><!-- panel-footer Starts -->
 
-<span class="pull-left"> View Details </span>
+<span class="pull-left"> Xem chi tiết </span>
 
 <span class="pull-right"> <i class="fa fa-arrow-circle-right"></i> </span>
 
@@ -230,7 +230,7 @@ else {
 
 <h3 class="panel-title" ><!-- panel-title Starts -->
 
-<i class="fa fa-money fa-fw" ></i> New Orders
+<i class="fa fa-money fa-fw" ></i> Đơn hàng mới
 
 </h3><!-- panel-title Ends -->
 
@@ -245,13 +245,13 @@ else {
 <thead><!-- thead Starts -->
 
 <tr>
-<th>Order No:</th>
-<th>Customer Email:</th>
-<th>Invoice No:</th>
-<th>Product ID:</th>
-<th>Product Qty:</th>
-<th>Product Size:</th>
-<th>Status:</th>
+<th>Đặt hàng:</th>
+<th>Email khách hàng:</th>
+<th>Hóa đơn:</th>
+<th>Sản phẩm ID:</th>
+<th>Sản phẩm Qty:</th>
+<th>Kích cỡ Sản phẩm: </th>
+<th>Trạng thái:</th>
 
 
 </tr>
@@ -377,8 +377,8 @@ View All Orders <i class="fa fa-arrow-circle-right" ></i>
 <div class="widget-content-expanded"><!-- widget-content-expanded Starts -->
 
 <i class="fa fa-user"></i> <span>Email: </span> <?php echo $admin_email; ?>  <br>
-<i class="fa fa-user"></i> <span>Country: </span> <?php echo $admin_country; ?>   <br>
-<i class="fa fa-user"></i> <span>Contact: </span> <?php echo $admin_contact; ?>   <br>
+<i class="fa fa-user"></i> <span>Quốc gia: </span> <?php echo $admin_country; ?>   <br>
+<i class="fa fa-user"></i> <span>Liên lạc: </span> <?php echo $admin_contact; ?>   <br>
 
 </div><!-- widget-content-expanded Ends -->
 
